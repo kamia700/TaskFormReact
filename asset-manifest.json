@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskFormReact/static/css/main.25d369a5.css",
+    "main.js": "/TaskFormReact/static/js/main.3efac9b0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TaskFormReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TaskFormReact/index.html",
+    "main.25d369a5.css.map": "/TaskFormReact/static/css/main.25d369a5.css.map",
+    "main.3efac9b0.js.map": "/TaskFormReact/static/js/main.3efac9b0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TaskFormReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d369a5.css",
+    "static/js/main.3efac9b0.js"
+  ]
+}
